@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hiteshsalavi?style=social&logo=Gmail&logoColor=red&link=mailto:hiteshsalavi@gmail.com)](mailto:Hitesh%20Salavi<hiteshsalavi@gmail.com>) 
 ![](https://komarev.com/ghpvc/?username=hiteshsalavi)
 
-- 👋 Hola, Amigos, I’m @HiteshSalavi, working as Senior Software Engineer at AFour Tech. Reach me out for a cup of coffee with some amazing tech news.
+- 👋 Hola, Amigos, I’m @HiteshSalavi, working as Software Engineer at BrowserStack. Reach me out for a cup of coffee with some amazing tech news.
 - 👀 I’m interested in making some amazing tech products and perfecting my Panipuri Recipe!
 - 🌱 I’m currently learning a lot. I always learn!!! too lazy to come here and update the list 
 - 💞️ I’m looking to collaborate on Software Engineering, Data Science, Cloud Tech and IoT or anything you can get me excited on!
